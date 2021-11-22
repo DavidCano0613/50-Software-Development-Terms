@@ -1,0 +1,24 @@
+
+
+.titulo {
+    font-weight:bold;
+}
+
+html{
+    background-color: #BDBDBD;
+
+}
+
+footer {
+    text-align: center;
+    background-color: grey;
+}
+
+header{
+    text-align: center;
+    font-size: 2rem;
+    margin:auto ;
+    padding: 0%;
+    background-color: orangered;
+    
+}
