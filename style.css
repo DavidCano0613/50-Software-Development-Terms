@@ -22,3 +22,11 @@ header{
     background-color: orangered;
     
 }
+
+dd{
+    height: 10vh;
+}
+
+dt{
+    height: 10vh;
+}
